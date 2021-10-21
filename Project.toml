@@ -1,0 +1,13 @@
+name = "DemoPackageNML"
+uuid = "acea3e11-a871-4cf0-be5f-071d503776c6"
+authors = ["Nicolette Laird <n.laird@wustl.edu> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
