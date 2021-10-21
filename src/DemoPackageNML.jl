@@ -1,5 +1,5 @@
 module DemoPackageNML
 
-print_greeting() = print("Hello, sunshine!")
+print_greeting() = print("Hello, world")
 
 end
