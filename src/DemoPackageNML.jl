@@ -1,5 +1,5 @@
 module DemoPackageNML
 
-print_greeting() = printstyled("Hello, world!"; color=:cyan)
+print_greeting() = printstyled("Hello, world!"; color=:magenta)
 
 end
